@@ -163,27 +163,8 @@ sounak07@github
 <hr/>
 <br/>
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
+## Let's connect and build something better !
 
 If you have any questions, feel free to <a href="mailto:sounakume@gmail.com">contact me through email</a> me.
 
-You can also reach out to me <a href="https://twitter.com/sounak_08">@sounak_08</a> or <a href="">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I'm not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in.”
-
-– Linus Torvalds
-
-  </td>
-  </tr>
-</table>
+You can also reach out to me <a href="https://twitter.com/sounak_08">@sounak_08</a> or <a href="">LinkedIn</a>.
