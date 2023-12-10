@@ -68,8 +68,9 @@ sounak07@github
 ```
 <hr>
 
-<br>
-</br>
+<br/>
+<hr/>
+<br/>
 
 ## 🛠️ My Favorite Tools
 
@@ -120,6 +121,10 @@ sounak07@github
     <a href="#"><img alt="Iterm2" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"></a> 
 </p>
 
+<br/>
+<hr/>
+<br/>
+
 
 ## Top Open Source -
 [![Typescript Node template](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=typescript-node-template&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/typescript-node-template)
@@ -154,6 +159,9 @@ sounak07@github
   <br/>
 </a>
 
+<br/>
+<hr/>
+<br/>
 
 <table style="border: none">
   <tr>
