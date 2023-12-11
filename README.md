@@ -103,9 +103,9 @@ sounak07@github
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-    <a href="#"><img alt="GCP" src ="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
     <a href="#"><img alt="GCP" src ="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
@@ -167,4 +167,4 @@ sounak07@github
 
 If you have any questions, feel free to <a href="mailto:sounakume@gmail.com">contact me through email</a> me.
 
-You can also reach out to me <a href="https://twitter.com/sounak_08">@sounak_08</a> or <a href="">LinkedIn</a>.
+You can also reach out to me <a href="https://twitter.com/sounak_08">Twitter</a> or <a href="">LinkedIn</a>.
