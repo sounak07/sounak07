@@ -16,13 +16,11 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=sounak07&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
 <!-- Intro  -->
 <h3 align="center">
     <samp>&gt; Hey There!, I am <b>Sounak Gupta</b>
     </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -66,6 +64,7 @@ sounak07@github
 🌟 Main languages: Python, JavaScript, C++, Go
 🎵 Love working work ,travelling and listenting to music.
 ```
+
 <hr>
 
 <br/>
@@ -125,8 +124,8 @@ sounak07@github
 <hr/>
 <br/>
 
-
 ## Top Open Source -
+
 [![Typescript Node template](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=typescript-node-template&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/typescript-node-template)
 [![K8 Notes](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=k8s-notes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/k8s-notes)
 [![FoodIt](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=FoodIt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/FoodIt)
@@ -140,12 +139,6 @@ sounak07@github
 <br/>
 <hr/>
 <br/>
-
-<p align="center">
-  <a href="https://github.com/sounak07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sounak07&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/sounak07">
