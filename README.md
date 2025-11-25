@@ -24,7 +24,7 @@
 
 <p align="center"> 
   <samp>
-    <a target="_blank" style="text-decoration:none" href="https://drive.google.com/file/d/175wcAnvHS5QgzwIXunLUJyB6sLYQfnP3/view?usp=sharing">「 Resume 」</a>
+    <a target="_blank" style="text-decoration:none" href="https://drive.google.com/file/d/1c03obFT7xnBEchVWsg5-4665kfU6RduT/view?usp=sharing">「 Resume 」</a>
     <br>
     「 Hello I'm Sounak, a full stack engineer based out of <b>India</b> 」
     <br>
