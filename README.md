@@ -124,14 +124,6 @@ sounak07@github
 <hr/>
 <br/>
 
-## Top Open Source -
-
-[![Typescript Node template](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=typescript-node-template&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/typescript-node-template)
-[![K8 Notes](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=k8s-notes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/k8s-notes)
-[![FoodIt](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=FoodIt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/FoodIt)
-[![React App](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=Split-wise&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/Split-wise)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sounak07&repo=sounak07.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sounak07/sounak07.github.io)
-
 <p align="left">
   <a href="https://github.com/sounak07?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
